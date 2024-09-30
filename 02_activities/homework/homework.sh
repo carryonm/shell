@@ -21,3 +21,4 @@
 # 9. How would you remove each directory along with its contents?
 
 # 10. How would you verify that all directories and files have been deleted?
+test
